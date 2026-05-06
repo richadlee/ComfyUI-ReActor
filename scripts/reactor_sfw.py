@@ -35,4 +35,4 @@ SCORE = 0.969
 logging.getLogger("transformers").setLevel(logging.ERROR)
 
 def nsfw_image(img_data, model_path: str):
-    return false
+    return False
